@@ -1,6 +1,6 @@
 # EIT-Calculator
 
-## Download the python file
+## Download
 
 Make sure necessary packages (tkinter, sklearn) are available.
 
